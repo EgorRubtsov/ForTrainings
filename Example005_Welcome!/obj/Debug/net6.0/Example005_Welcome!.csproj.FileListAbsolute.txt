@@ -1,0 +1,15 @@
+C:\Users\Егор\Desktop\Geek\С#\Лекция1\Example005_Welcome!\bin\Debug\net6.0\Example005_Welcome!.exe
+C:\Users\Егор\Desktop\Geek\С#\Лекция1\Example005_Welcome!\bin\Debug\net6.0\Example005_Welcome!.deps.json
+C:\Users\Егор\Desktop\Geek\С#\Лекция1\Example005_Welcome!\bin\Debug\net6.0\Example005_Welcome!.runtimeconfig.json
+C:\Users\Егор\Desktop\Geek\С#\Лекция1\Example005_Welcome!\bin\Debug\net6.0\Example005_Welcome!.dll
+C:\Users\Егор\Desktop\Geek\С#\Лекция1\Example005_Welcome!\bin\Debug\net6.0\Example005_Welcome!.pdb
+C:\Users\Егор\Desktop\Geek\С#\Лекция1\Example005_Welcome!\obj\Debug\net6.0\Example005_Welcome!.csproj.AssemblyReference.cache
+C:\Users\Егор\Desktop\Geek\С#\Лекция1\Example005_Welcome!\obj\Debug\net6.0\Example005_Welcome!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\Desktop\Geek\С#\Лекция1\Example005_Welcome!\obj\Debug\net6.0\Example005_Welcome!.AssemblyInfoInputs.cache
+C:\Users\Егор\Desktop\Geek\С#\Лекция1\Example005_Welcome!\obj\Debug\net6.0\Example005_Welcome!.AssemblyInfo.cs
+C:\Users\Егор\Desktop\Geek\С#\Лекция1\Example005_Welcome!\obj\Debug\net6.0\Example005_Welcome!.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\Geek\С#\Лекция1\Example005_Welcome!\obj\Debug\net6.0\Example005_Welcome!.dll
+C:\Users\Егор\Desktop\Geek\С#\Лекция1\Example005_Welcome!\obj\Debug\net6.0\refint\Example005_Welcome!.dll
+C:\Users\Егор\Desktop\Geek\С#\Лекция1\Example005_Welcome!\obj\Debug\net6.0\Example005_Welcome!.pdb
+C:\Users\Егор\Desktop\Geek\С#\Лекция1\Example005_Welcome!\obj\Debug\net6.0\Example005_Welcome!.genruntimeconfig.cache
+C:\Users\Егор\Desktop\Geek\С#\Лекция1\Example005_Welcome!\obj\Debug\net6.0\ref\Example005_Welcome!.dll
