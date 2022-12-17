@@ -1,0 +1,15 @@
+C:\Users\Егор\Desktop\Geek\С#\Лекция1\Example007_Figure\bin\Debug\net6.0\Example007_Figure.exe
+C:\Users\Егор\Desktop\Geek\С#\Лекция1\Example007_Figure\bin\Debug\net6.0\Example007_Figure.deps.json
+C:\Users\Егор\Desktop\Geek\С#\Лекция1\Example007_Figure\bin\Debug\net6.0\Example007_Figure.runtimeconfig.json
+C:\Users\Егор\Desktop\Geek\С#\Лекция1\Example007_Figure\bin\Debug\net6.0\Example007_Figure.dll
+C:\Users\Егор\Desktop\Geek\С#\Лекция1\Example007_Figure\bin\Debug\net6.0\Example007_Figure.pdb
+C:\Users\Егор\Desktop\Geek\С#\Лекция1\Example007_Figure\obj\Debug\net6.0\Example007_Figure.csproj.AssemblyReference.cache
+C:\Users\Егор\Desktop\Geek\С#\Лекция1\Example007_Figure\obj\Debug\net6.0\Example007_Figure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\Desktop\Geek\С#\Лекция1\Example007_Figure\obj\Debug\net6.0\Example007_Figure.AssemblyInfoInputs.cache
+C:\Users\Егор\Desktop\Geek\С#\Лекция1\Example007_Figure\obj\Debug\net6.0\Example007_Figure.AssemblyInfo.cs
+C:\Users\Егор\Desktop\Geek\С#\Лекция1\Example007_Figure\obj\Debug\net6.0\Example007_Figure.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\Geek\С#\Лекция1\Example007_Figure\obj\Debug\net6.0\Example007_Figure.dll
+C:\Users\Егор\Desktop\Geek\С#\Лекция1\Example007_Figure\obj\Debug\net6.0\refint\Example007_Figure.dll
+C:\Users\Егор\Desktop\Geek\С#\Лекция1\Example007_Figure\obj\Debug\net6.0\Example007_Figure.pdb
+C:\Users\Егор\Desktop\Geek\С#\Лекция1\Example007_Figure\obj\Debug\net6.0\Example007_Figure.genruntimeconfig.cache
+C:\Users\Егор\Desktop\Geek\С#\Лекция1\Example007_Figure\obj\Debug\net6.0\ref\Example007_Figure.dll
